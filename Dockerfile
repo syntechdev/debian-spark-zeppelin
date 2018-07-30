@@ -1,5 +1,5 @@
-FROM gcr.io/google_containers/spark-base:latest
-
+FROM docker pull mesosphere/spark:latest
+#FROM gcr.io/google_containers/spark-base:latest
 #FROM gettyimages/spark:2.2.0-hadoop-2.7
 
 # Zeppelin
